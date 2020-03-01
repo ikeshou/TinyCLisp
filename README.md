@@ -12,7 +12,7 @@ To execute your common lisp all in once, type
 > python3 TinyLisp.py [--file "your subset of Common Lisp file here"]
 
 To see help, type
-> python3 TinyLisp.py -h
+> python3 TinyLisp.py [-h]
 
 <br>
 
