@@ -8,7 +8,7 @@ hand-made small subset of Common Lisp processor written in Python3
 To run an interpreter, type
 > python3 TinyLisp.py [--debug] [--prompt "prompt message here"]
 
-To execute your common lisp all in once, type
+To execute your common lisp code all in once, type
 > python3 TinyLisp.py [--file "your subset of Common Lisp file here"]
 
 To see help, type
