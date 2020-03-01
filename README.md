@@ -99,7 +99,7 @@ data -- list
 | ratio   | LispRatio                        | Fraction, LispNumber |
 | complex | LispComplex                      | complex, LispNumber  |
 
-When tokenizing and parsing, the input s-expression is converted based on the table above. When evaluating, the special symol is converted to `LispSpecial` and this works as kaind of mark that shows whether the variable we refers to from a certain scope is special variable or ordinary variable. So as to see how the tokenizer and parser and evaluator works, use *--debug* option.
+When tokenizing and parsing, the input s-expression is converted based on the table above. When evaluating, the special variable is converted to `LispSpecial` and this works as kind of a mark that shows whether the variable we refers to from a certain scope is a special variable or ordinary variable. So as to see how the tokenizer and parser and evaluator works, use *--debug* option.
 
 <br>
 
