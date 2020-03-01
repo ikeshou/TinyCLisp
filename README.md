@@ -87,7 +87,7 @@ data -- list
                        |- complex
 ```
 
-| input   | data type inside the interpreter | super type           |
+| input   | data type inside the interpreter | super class          |
 | :------ | :------------------------------- | :------------------- |
 | list    | list (processed recursively)     |                      |
 | symbol  | LispSymbol                       | str                  |
