@@ -1,7 +1,7 @@
 <!-- ctrl+shift+v to see preview,  ctrl+shift+i to arrange tables in VS Code-->
 
 # TinyCLisp
-hand-made small subset of Common Lisp processor written in Python3
+A homemade small subset of Common Lisp processor written in Python3
 
 
 ## Usage
